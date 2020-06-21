@@ -1,0 +1,116 @@
+
+Kcom.team4.ordermanagement.order.entity.Products#equals(Ljava/lang/Object;)Zz
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.java; ;("startingBlock*†
+2z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaJ
+ J("„
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaJ J(
+""*
+startingBlockz
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.java; ;("Ä
+Á
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.java: :(
+
+%6"
+__annotate*
+java.lang.Override*
+
+objjava.lang.Object®
+«
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.java; ;(!
+objjava.lang.Object"__annotation*
+
+%6*
+
+7
+8
+10*Ò
+3z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaH H(ß
+Ü
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaH H(
+%4java.lang.Integer"__id*?*=1
+/com.team4.ordermanagement.order.entity.Products"
+prodIdæ
+ã
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaH H(
+%5java.lang.Integer"__id*F*D
+8
+other/com.team4.ordermanagement.order.entity.Products"
+prodId*
+2
+1*†
+4z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaE
+ E("„
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaE E(
+""*±
+5z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaB B(!Ú
+×
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaB B("8
+other/com.team4.ordermanagement.order.entity.Products"__id*
+
+objjava.lang.Objectà
+Ý
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaC C(
+%2java.lang.Integer"__id*@*>1
+/com.team4.ordermanagement.order.entity.Products"	
+orderIdç
+ä
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaC C(
+%3java.lang.Integer"__id*G*E
+8
+other/com.team4.ordermanagement.order.entity.Products"	
+orderId*
+3
+4*†
+6z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaA
+ A("„
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaA A(
+""*ý
+7z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.java@ @(…‚
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.java@ @(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*31
+/com.team4.ordermanagement.order.entity.Products2
+getClass()ëè
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.java@ @("
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+objjava.lang.Object2
+getClass()*
+5
+6*†
+8z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.java?
+ ?("„
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.java? ?(
+""*‡
+10z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.java=
+ =("„
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.java= =(
+""*†
+1z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaM	 M("„
+z
+pC:/Users/Priyaguddinti/eclipse/sample/OrderMS/src/main/java/com/team4/ordermanagement/order/entity/Products.javaM M(
+"":
+objjava.lang.ObjectB31
+/com.team4.ordermanagement.order.entity.Products
